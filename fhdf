@@ -1,0 +1,97 @@
+1.1
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>“The Road Not Taken”</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>“The Road Not Taken”</h1>
+    <p>Two roads diverged in a yellow wood, <br>
+And sorry I could not travel both <br>
+And be one traveler, long I stood <br>
+And looked down one as far as I could <br>
+To where it bent in the undergrowth.</p>
+    </body>
+</html>
+1.2
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: You can learn text tags</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p>
+        Nobody’s born smart. We all start at 0. Can’t talk, can’t walk, certainly can’t do algebra.<br>
+        Adding, reading, writing, riding a bike. Nobody’s good at anything at first.<br>
+        There was a time when Einstein couldn’t count to 10.<br>
+        And Shakespeare had to learn his ABCs just like the rest of us.<br>
+        Thankfully, we are born to learn.<br>
+        Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.<br>
+        Frustrating. Confusing. Trying. Struggling.<br>
+        Until one day, you walk.<br>
+        One foot in front of the other. One idea on top of the next.<br>
+        <em>Each wrong answer making your brain a little bit stronger. </em><br>
+        Failing is just another word for growing. And you keep going.<br>
+        This. is. learning.<br>
+        It’s not that you don’t get it. <br>
+        You just don’t get it, yet.
+       <em> Because the most beautiful, complex concepts in the whole universe </em><br>
+         <em> are built on basic ideas that anyone, anywhere can understand. </em><br>
+        Whoever you are, wherever you are.<br>
+        </p>
+        <p>
+       <strong> You only have to know one thing:</strong><br>
+        <strong>You can learn anything.</strong>
+        </p>
+    </body>
+</html>
+1.3
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>Want to buy</h1>
+    <ul> 
+     <li>earrings</li>
+     <li>face cream</li>
+     <li>headphones</li> 
+         
+     </ul>
+     <h2>Character of people</h2>
+     <ol>
+         <li>straightness</li>
+         <li>punctuality</li>
+         <li>sentimentality</li>
+     </ol>
+        
+        
+        
+    </body>
+</html>
+1.4
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        
+        <p>I would see scenes like...</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/Star.png" alt="star" width="100">
+        
+        
+        <p>And animals like...</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-sapling.png" alt="aqualine-sapling" width="105">
+        
+        <p>And eat food like...</p>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/Heart.png" alt="heart" width="100">
+        
+    </body>
+</html>
