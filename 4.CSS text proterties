@@ -1,0 +1,199 @@
+4.1
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Fancy font families</title>
+        <style>
+        #flinstones {
+            color:rgb(50, 177, 179);
+            font-family:cursive;
+        }
+        
+        #jetsons {
+            color:rgb(201, 88, 201);
+            font-family:monospace;
+        }
+        
+        #addams {
+            color:rgb(222, 196, 80);
+            font-family:fantasy;
+        }
+        h4 {
+            background-color:rgb(33, 194, 116);
+            font-family:sans-serif;
+        }
+        p {
+            color:rgb(8, 3, 7);
+            font-family:serif;
+        }
+        body {
+            background-color:rgb(232, 225, 232);
+            font-family:serif;
+        }
+        </style>
+    </head>
+    <body>
+    
+    <p>Some fun theme songs of well known TV families</p>
+    
+    <h4>The Flinstones</h4>
+    <p id="flinstones">
+    Meet the Flintstones<br>
+    They're the modern stone age family<br>
+    From the town of Bedrock<br>
+    They're a page right of history</p>
+    
+    <h4>The Jetsons</h4>
+    <p id="jetsons">
+    Meet George Jetson,<br>
+    His Boy Elroy,<br>
+    Daughter Judy,<br>
+    Jane, His wife
+    </p>
+
+    <h4>The Addams Family</h4>
+    <p id="addams">
+    They're creepy and they're kooky,<br>
+    mysterious and spooky<br>
+    They're all together ooky,<br>
+    the Addams Family 
+    </p>
+    </body>
+</html>
+4.2
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Great big font sizes</title>
+        <style>
+            .big {
+                font-size:20px;
+            }
+            
+            .bigger {
+                font-size:23px;
+            }
+        </style>
+    </head>
+    <body>
+
+<h1>Great Big Words</h1>
+<h2>by Michael Mark & Tom Chapin</h2>
+
+<p>When I was a little kid,
+a "<em class="big">diminutive juvenile</em>," <br>
+I liked my folks to read to me,
+I was an <em class="big">"eager bibliophile."</em> <br>
+Now I love words for how they sound <br>
+And how they <em class="big">"communicate."</em> <br>
+Perhaps I should explain myself,
+that is, <em class="big">"elucidate."</em> <br>
+Great big words, I like <em class="big">big</em> words. <br>
+Letter by letter, the <em class="bigger">bigger</em> the better <br>
+Great big words. La la la la la la la la la la!</p>
+
+    </body>
+</html>
+4.3
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Famous font formats</title>
+        <style>
+            .declaration { 
+              font-weight:bold;
+            }
+            
+            .quote {
+                font-style:italic;
+            }
+        </style>
+    </head>
+    <body>
+
+    <h2>Famous quotes</h2>
+    <p class="quote">
+    "My mama always said life was like a box of chocolates. You never know what you're gonna get.".
+    <br> - Forrest Gump
+    </p>
+    
+    <p class="quote">
+    "May the force be with you."
+    <br>- Star Wars
+    </p>
+    
+     <h2>Famous declarations</h2>
+     
+    <p class="declaration">
+    I'M BATMAN.
+    </p>
+    
+    <p class="declaration">
+    Earth, water, fire. Together, we are CAPTAIN PLANET!
+    </p>
+    
+    </body>
+</html>
+4.4
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        h1 {
+            color:rgb(181, 22, 133);
+            font-family:fantasy;
+            font-size:40px;
+        }
+        h3{
+            font-size:31px;
+        }
+        p {
+            font-style:italic;
+        }
+        #first{
+            background-color:rgb(235, 223, 235);
+            font-family:monospace;
+        }
+        #second{
+            background-color:rgb(158, 63, 158);
+            font-family:monospace;
+        }
+        h6 {
+            font-size:11px;
+            text-decoration:underline;
+        }
+        a{
+            text-decoration:none;
+            color:red;
+        }
+    </style>
+    <body>
+        
+        <h1>Dancho's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#first">First post!</a></li>
+            <li><a href="#second">Second post!</a></li>
+        </ul>
+        
+        <h2 id="first">First post</h2>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/duskpin-ultimate.png"    alt="duskpin-ultimate">
+        <h6>Posted on September 23, 2019</h6>
+        
+        <p>For the first time I see such a beautiful animal. we saw it when we were walking with mom yesterday.</p>
+        
+         <h2 id="second"> Second post</h2>
+          <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/duskpin-tree.png" alt="duskpin-tree">
+         <h6>Posted on January 11, 2020</h6>
+           <p>Today is my birthday.<br> 
+ My friends gave me such a beautiful animal. I'm very happy</p>
+        
+    </body>
+</html>
